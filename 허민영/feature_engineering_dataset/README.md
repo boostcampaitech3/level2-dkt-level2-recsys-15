@@ -36,4 +36,4 @@
 'entire_acc_by_item'     : 해당 문제의 정답률(전체 기준)       (LGBM_baseline의 test_mean 피처와 동일)  
 'entire_user_cnt_by_item': 해당 문제를 푼 유저 수(전체 기준)   (LGBM_baseline의 test_sum 피처와 동일)  
 'entire_acc_by_tag'      : 해당 태그의 정답률(전체 기준)       (LGBM_baseline의 tag_mean 피처와 동일)  
-'entire_user_cnt_by_tag' : 해당 태그를 푼 유저 수(전체 기준)   (LGBM_baseline의 user_ctag_sumorrect_answer 피처와 동일)  
+'entire_user_cnt_by_tag' : 해당 태그를 푼 유저 수(전체 기준)   (LGBM_baseline의 user_tag_correct_answer 피처와 동일)  
